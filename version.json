@@ -1,0 +1,21 @@
+{
+    "force": false,
+    "version": "1.466.1",
+    "files": [{
+        "assets.rtc": "17007f1ea6f2e20b883519d064eeaaf4"
+    }],
+    "directory": [
+        {
+            "name": "data",
+            "hash": "7839daf3f40ded0b433ca828256280a0"
+        },
+        {
+            "name": "mods",
+            "hash": "61b6bce3f6a5d0507bd82c4e5e3c566f"
+        },
+        {
+            "name": "modules",
+            "hash": "37963a6ef6aeca0134af2adadf0db95e"
+        }
+    ]
+}
