@@ -1,10 +1,10 @@
 {
     "files": [
         {
-            "assets.rtc": "500da121d2e19abcc8e5e13090c3eebc",
-            "emac-client.dll": "17c43ea12245b2cf4b8435d6286736bd"
+            "assets.rtc": "0da0f0fde9ffd3d6106fa36ede5c1764",
+            "emac-client.dll": "67b848827ecab9ffb94a10b9c4c44a44"
         }
     ],
-    "force": false,
-    "version": "3.844"
+    "force": true,
+    "version": "3.865"
 }
