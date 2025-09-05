@@ -5,6 +5,6 @@
             "emac-client.dll": "67b848827ecab9ffb94a10b9c4c44a44"
         }
     ],
-    "force": true,
+    "force": false,
     "version": "3.865"
 }
